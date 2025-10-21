@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Letter to John</title>
+</head>
+<body>
+  <h1>Dear John,</h1>
+  <p>I hope this message finds you well.</p>
+  <p>This is a test letter hosted on GitHub Pages.</p>
+  <p>Sincerely,<br>Your Friend</p>
+</body>
+</html>
